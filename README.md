@@ -1,4 +1,4 @@
-# Weapon-detection-
+# Weapon-detection
 # Real-Time Gun Detection System using OpenCV
 
 A Computer Vision security application that detects firearms in real-time using a webcam and a Haar Cascade classifier. The system processes live video frames, identifies potential weapons, and highlights detected objects with bounding boxes for surveillance and security monitoring.
